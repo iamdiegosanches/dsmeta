@@ -1,3 +1,3 @@
 # dsmeta
 
-[https://dsmeta-sanches.herokuapp.com/sales](https://dsmeta-sanches.herokuapp.com/sales)
+[https://dsmeta-sanches.netlify.app/](https://dsmeta-sanches.netlify.app/)
